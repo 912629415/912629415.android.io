@@ -1,42 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T08:38:47.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36" etag="n64JFnnWlWIPv5hQmlF6" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T09:12:48.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36" etag="nEFRiTtngOkOPy9rLT_v" version="13.5.5" type="github">
   <diagram id="5dPPpYAP-PKiB_ua91mX" name="Page-1">
-    <mxGraphModel dx="4783" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="6855" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3NJFldnpDI_Of29Jazui-77" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.503;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-73" target="3NJFldnpDI_Of29Jazui-58">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-70" y="1430" as="sourcePoint" />
-            <mxPoint x="90" y="1430" as="targetPoint" />
+            <mxPoint x="-260" y="1650" as="sourcePoint" />
+            <mxPoint x="-100" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-81" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-78">
+        <mxCell id="3NJFldnpDI_Of29Jazui-81" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.535;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-78" target="3NJFldnpDI_Of29Jazui-58">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-70" y="1530" as="sourcePoint" />
-            <mxPoint x="80" y="1420" as="targetPoint" />
+            <mxPoint x="-260" y="1750" as="sourcePoint" />
+            <mxPoint x="-110" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-30" value="JBDAdConfigBean" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="110" width="190" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-32" value="+jdbAdPlat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-30">
-          <mxGeometry y="26" width="190" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-105" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.698;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-105" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="690" y="1780" as="sourcePoint" />
+            <mxPoint x="492.7600000000011" y="1917.192" as="sourcePoint" />
             <mxPoint x="850" y="1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-107" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.461;entryY=1.104;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.455;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-96" target="3NJFldnpDI_Of29Jazui-86">
+        <mxCell id="3NJFldnpDI_Of29Jazui-107" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.461;entryY=1.104;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.456;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-139" target="3NJFldnpDI_Of29Jazui-86">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1150" y="1896" as="sourcePoint" />
+            <mxPoint x="972.1000000000004" y="1916.976" as="sourcePoint" />
             <mxPoint x="1000" y="1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-117" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.461;entryY=1.104;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.22;exitY=-0.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-117" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.461;entryY=1.104;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1470" y="1910" as="sourcePoint" />
+            <mxPoint x="1476.3999999999996" y="1915.8959999999997" as="sourcePoint" />
             <mxPoint x="1223.7200000000007" y="1776.004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -49,154 +43,157 @@
         <mxCell id="3NJFldnpDI_Of29Jazui-118" value="JBDADManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="1220" width="710" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-119" value="factoryList：arrayListOf&lt;JBDFactory&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
+        <mxCell id="3NJFldnpDI_Of29Jazui-119" value="-factoryList：arrayListOf&lt;JBDFactory&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
           <mxGeometry y="26" width="710" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-120" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
           <mxGeometry y="52" width="710" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-122" value="initAdPlatSDK(application: Application, list: List&lt;JBDAdConfigBean&gt;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
+        <mxCell id="3NJFldnpDI_Of29Jazui-122" value="+initAdPlatSDK(application: Application, list: List&lt;JBDAdConfigBean&gt;)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
           <mxGeometry y="60" width="710" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-123" value="loadJBDAd(context: Context, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
+        <mxCell id="3NJFldnpDI_Of29Jazui-123" value="+loadJBDAd(context: Context, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
           <mxGeometry y="86" width="710" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-121" value="loadJBDAdByType(mContext: Context, jbdFactory: JBDFactory, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
+        <mxCell id="3NJFldnpDI_Of29Jazui-121" value="-loadJBDAdByType(mContext: Context, jbdFactory: JBDFactory, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-118">
           <mxGeometry y="112" width="710" height="28" as="geometry" />
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-51" value="JBDFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="1560" width="620" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-52" value="jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
+        <mxCell id="3NJFldnpDI_Of29Jazui-52" value="+jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="26" width="620" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-53" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="52" width="620" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-54" value="initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
+        <mxCell id="3NJFldnpDI_Of29Jazui-54" value="+initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="60" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-82" value="loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
+        <mxCell id="3NJFldnpDI_Of29Jazui-82" value="+loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="86" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-83" value="loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
+        <mxCell id="3NJFldnpDI_Of29Jazui-83" value="+loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="112" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-84" value="loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
+        <mxCell id="3NJFldnpDI_Of29Jazui-84" value="+loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="138" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-85" value="loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
+        <mxCell id="3NJFldnpDI_Of29Jazui-85" value="+loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="164" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-86" value="loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
+        <mxCell id="3NJFldnpDI_Of29Jazui-86" value="+loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-51">
           <mxGeometry y="190" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-87" value="CSJFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1920" width="620" height="216" as="geometry" />
+        <mxCell id="3NJFldnpDI_Of29Jazui-139" value="CSJactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1960" width="620" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-88" value="jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-140" value="+jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="26" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-89" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-141" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="52" width="620" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-90" value="initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-142" value="+initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="60" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-91" value="loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-143" value="+loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="86" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-92" value="loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-144" value="+loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="112" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-93" value="loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-145" value="+loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="138" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-94" value="loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-146" value="+loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="164" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-95" value="loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-87">
+        <mxCell id="3NJFldnpDI_Of29Jazui-147" value="+loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-139">
           <mxGeometry y="190" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-96" value="GTDFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1920" width="620" height="216" as="geometry" />
+        <mxCell id="3NJFldnpDI_Of29Jazui-130" value="GDTFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1960" width="620" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-97" value="jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-131" value="+jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="26" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-98" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-132" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="52" width="620" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-99" value="initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-133" value="+initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="60" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-100" value="loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-134" value="+loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="86" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-101" value="loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-135" value="+loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="112" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-102" value="loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-136" value="+loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="138" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-103" value="loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-137" value="+loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="164" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-104" value="loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-96">
+        <mxCell id="3NJFldnpDI_Of29Jazui-138" value="+loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-130">
           <mxGeometry y="190" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-108" value="KSFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1920" width="620" height="216" as="geometry" />
+        <mxCell id="3NJFldnpDI_Of29Jazui-149" value="KSFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1960" width="620" height="216" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-109" value="jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-150" value="+jbdAdPlat: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="26" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-110" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-151" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="52" width="620" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-111" value="initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-152" value="+initSDk(context: Application, jbdAdConfigBean: JBDAdConfigBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="60" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-112" value="loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-153" value="+loadRewardedVideo(mActivity: Activity, jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: RewardedVideoListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="86" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-113" value="loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-154" value="+loadSplashAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="112" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-114" value="loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-155" value="+loadInteractionExpressAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="138" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-115" value="loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-156" value="+loadFlowAd(mContext: Context,jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="164" width="620" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-116" value="loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-108">
+        <mxCell id="3NJFldnpDI_Of29Jazui-157" value="+loadBannerAd(jbdAdSlotBean: JBDAdSlotBean, jbdAdListener: JBDADListener)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-149">
           <mxGeometry y="190" width="620" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-165" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;JBDADInterListener&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt&quot;&gt;jbdADShow&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-weight: bold ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt&quot;&gt;jbdAdBean: JBDAdSlotBean&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-weight: bold ; font-style: italic&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt&quot;&gt;jdbAdError&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-weight: bold ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt&quot;&gt;jbdAdBean: JBDAdSlotBean, error: JBDAdError&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;courier new&amp;#34; ; font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-weight: bold ; font-style: italic&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 12pt ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font color=&quot;#660e7a&quot;&gt;&lt;i&gt;+&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 12pt&quot;&gt;jbdADCLick&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 12pt&quot;&gt;jbdAdBean: JBDAdSlotBean&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-style: italic&quot;&gt;)&lt;br&gt;+&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 12pt&quot;&gt;unSupport&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-style: italic&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 12pt&quot;&gt;jbdAdBean: JBDAdSlotBean, error: JBDAdError&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-style: italic&quot;&gt;)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-style: italic&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 12pt&quot;&gt;loadNextJBDAd&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; color: rgb(102 , 14 , 122) ; font-style: italic&quot;&gt;()&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1070" width="570" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-169" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.435;entryY=1.017;entryDx=0;entryDy=0;exitX=0.46;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="3NJFldnpDI_Of29Jazui-55" target="3NJFldnpDI_Of29Jazui-165">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-105" y="1420" as="sourcePoint" />
+            <mxPoint x="50" y="1490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-55" value="JBDADListener" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="1220" width="400" height="190" as="geometry">
+          <mxGeometry x="-330" y="1440" width="400" height="138" as="geometry">
             <mxRectangle x="660" y="310" width="110" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-56" value="jbdADCLick(jbdAdBean: JBDAdSlotBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
+        <mxCell id="3NJFldnpDI_Of29Jazui-56" value="-jbdADCLick(jbdAdBean: JBDAdSlotBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
           <mxGeometry y="26" width="400" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-57" value="jbdADShow(jbdAdBean: JBDAdSlotBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
+        <mxCell id="3NJFldnpDI_Of29Jazui-57" value="-jbdADShow(jbdAdBean: JBDAdSlotBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
           <mxGeometry y="52" width="400" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-68" value="unSupport(jbdAdBean: JBDAdSlotBean, error: JBDAdError)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
+        <mxCell id="3NJFldnpDI_Of29Jazui-68" value="-unSupport(jbdAdBean: JBDAdSlotBean, error: JBDAdError)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
           <mxGeometry y="78" width="400" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-71" value="jbdADShow(jbdAdBean: JBDAdSlotBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
-          <mxGeometry y="104" width="400" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-69" value="loadNextJBDAd()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
-          <mxGeometry y="130" width="400" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="3NJFldnpDI_Of29Jazui-58" value="jdbAdError(jbdAdBean: JBDAdSlotBean, error: JBDAdError)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
-          <mxGeometry y="156" width="400" height="34" as="geometry" />
+        <mxCell id="3NJFldnpDI_Of29Jazui-58" value="-jdbAdError(jbdAdBean: JBDAdSlotBean, error: JBDAdError)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-55">
+          <mxGeometry y="104" width="400" height="34" as="geometry" />
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-73" value="RewardedVideoListener" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="1580" width="400" height="78" as="geometry" />
+          <mxGeometry x="-530" y="1800" width="400" height="78" as="geometry" />
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-74" value="rewardedVideoClose(jbdAdSlotBean: JBDAdSlotBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-73">
           <mxGeometry y="26" width="400" height="26" as="geometry" />
@@ -205,10 +202,34 @@
           <mxGeometry y="52" width="400" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-78" value="SplashAdListener" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1580" width="400" height="52" as="geometry" />
+          <mxGeometry x="-90" y="1800" width="400" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3NJFldnpDI_Of29Jazui-79" value="splashAdClose(jbdAdSlotBean: JBDAdSlotBean)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-78">
           <mxGeometry y="26" width="400" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-183" value="JBDAdSlotBean" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="1202" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-184" value="+jbdAdPlat:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-183">
+          <mxGeometry y="26" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-188" value="+jbdAdType:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-183">
+          <mxGeometry y="52" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-185" value="+ jbdAdId:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-183">
+          <mxGeometry y="78" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-186" value="+ adTag:Any" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-183">
+          <mxGeometry y="104" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-30" value="JBDAdConfigBean" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1202" width="190" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-32" value="+jdbAdPlat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-30">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3NJFldnpDI_Of29Jazui-170" value="+jbdAppID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3NJFldnpDI_Of29Jazui-30">
+          <mxGeometry y="52" width="190" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
